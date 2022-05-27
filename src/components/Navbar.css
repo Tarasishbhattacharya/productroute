@@ -1,0 +1,15 @@
+.nav_cont{
+    display:flex;
+    justify-content: center;
+    gap: 5px;
+    align-items: center;
+   
+}
+.home{
+    text-align: center;
+    margin-top: 10px;
+}
+.product{
+    text-align: center;
+    margin-top: 10px;
+}
